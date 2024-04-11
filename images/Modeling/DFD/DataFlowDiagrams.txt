@@ -1,0 +1,52 @@
+Why DFD?
+
+DFD graphically representing the functions, or processes, which capture, manipulate, store, and distribute data between a system and its environment and between components of a system. The visual representation makes it a good communication tool between User and System designer. Structure of DFD allows starting from a broad overview and expand it to a hierarchy of detailed diagrams. DFD has often been used due to the following reasons:
+
+1.Logical information flow of the system
+2.Determination of physical system construction requirements
+3.Simplicity of notation
+4.Establishment of manual and automated systems requirements
+
+
+DFD Symbols
+
+1.Process
+
+A process receives input data and produces output with a different content or form. Processes can be as simple as collecting input data and saving in the database, or it can be complex as producing a report containing monthly sales of all retail stores in the northwest region.
+
+Every process has a name that identifies the function it performs.
+The name consists of a verb, followed by a singular noun.
+
+Example:
+	Apply Payment
+	Calculate Commission
+	Verify Order
+
+
+2.Notation
+
+Straight lines with incoming arrows are input data flow
+Straight lines with outgoing arrows are output data flows
+
+Note that:
+Because every process changes data from one form into another, at least one data-flow must enter and one data-flow must exit each process symbol.
+
+
+3.Rule of Data Flow
+
+One of the rule for developing DFD is that all flow must begin with and end at a processing step. This is quite logical, because data can't transform on its own with being process. By using the thumb rule, it is quite easily to identify the illegal data flows and correct them in a DFD.
+
+1.An entity cannot provide data to another entity without some processing occurred.
+2.Data cannot move directly from an entity to a data story without being processed.
+3.Data cannot move directly from a data store without being processed.
+4.Data cannot move directly from one data store to another without being processed.
+
+
+
+
+
+
+
+
+
+
