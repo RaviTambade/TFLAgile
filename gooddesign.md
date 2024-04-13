@@ -1,4 +1,4 @@
-# Good Design Charactristics
+# Good Design characteristics
 
 Good design encompasses several characteristics that contribute to its effectiveness and appeal. Here are some key elements:
 
