@@ -1,7 +1,7 @@
 # Software Development Methodology (SDM)
 
 - <a href="https://github.com/RaviTambade/IACSDSDM/blob/main/sdlc.md">Software Development Lifecycle (SDLC)</a>
-- <a href="https://github.com/RaviTambade/IACSDSDM/blob/main/Agile Methodology.md">Agile Methodology</a>
+- <a href="https://github.com/RaviTambade/IACSDSDM/blob/main/agile.md">Agile Methodology</a>
 - <a href="https://github.com/RaviTambade/IACSDSDM/blob/main/agilevswaterfall.md">Agile vs Waterfall</a>
 
 
